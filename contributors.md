@@ -1,4 +1,4 @@
 Add your name here!
 
-Alison
-Kailey
+- Alison S
+- Kailey H
