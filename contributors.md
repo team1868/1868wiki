@@ -13,3 +13,4 @@ Add your name here!
 - Emerson C
 - Katie T
 - Anh Le
+- Sophia L
