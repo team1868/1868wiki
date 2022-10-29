@@ -7,3 +7,4 @@ Add your name here!
 - Aditi P
 - Valerie K
 - Sonali S
+- Anika K
