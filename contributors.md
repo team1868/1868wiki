@@ -5,3 +5,4 @@ Add your name here!
 - Amanda Z
 - Aditi P
 - Valerie K
+- Sonali S
