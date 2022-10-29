@@ -10,3 +10,4 @@ Add your name here!
 - Sonali S
 - Anika K
 - Emerson C
+- Katie T
