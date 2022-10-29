@@ -7,6 +7,7 @@ Add your name here!
 - Amanda Z
 - Aditi P
 - Valerie K
+- Isabelle L
 - Sonali S
 - Anika K
 - Emerson C
