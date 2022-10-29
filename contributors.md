@@ -8,3 +8,4 @@ Add your name here!
 - Valerie K
 - Sonali S
 - Anika K
+- Emerson C
