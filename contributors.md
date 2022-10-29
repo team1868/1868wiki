@@ -4,3 +4,4 @@ Add your name here!
 - Kailey H
 - Amanda Z
 - Aditi P
+- Valerie K
